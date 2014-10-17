@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[udg:home|Door43 (udg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-udg|d43-udg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-udg/archive/master.zip|d43-udg.zip]]
+
+**Recent Changes**
+{{changes>ns = udg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/udg|Ethnologue data]]
+
