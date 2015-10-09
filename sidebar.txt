@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/udg|Ethnologue data]]
 
-
 **Resources**
 
   * [[udg:obs|Open Bible Stories (udg)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:udg:obs:status}}
